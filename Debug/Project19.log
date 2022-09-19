@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\2nd Level\2nd Term\Data Structure\DS Application\Project19\Project19\Option 4.h(133,13): warning C4101: 'root': unreferenced local variable
+E:\2nd Level\2nd Term\Data Structure\DS Application\Project19\Project19\Option 1.h(68): warning C4715: 'queueForStack::dequeue': not all control paths return a value
+  Project19.vcxproj -> E:\2nd Level\2nd Term\Data Structure\DS Application\Project19\Project19\Debug\Project19.exe
